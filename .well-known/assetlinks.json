@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.smartron.tronxservices",
+    "sha256_cert_fingerprints":
+    ["A9:27:D6:58:C6:C6:43:6D:22:4D:22:68:EC:CB:3C:F2:A1:7A:DF:43:91:6C:E2:59:D3:63:54:E5:0F:E0:65:22"]
+  }
+}]
